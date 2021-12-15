@@ -1,0 +1,17 @@
+body
+{
+text-align: center;
+background-image: url("background1.jpg");
+}
+#heading{
+    width:100%;
+    float: left;
+    font-size: xx-large;
+}
+#instructions{
+    float: right;
+}
+h4{
+    bottom: 0;
+    
+}
